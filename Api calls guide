@@ -1,0 +1,30 @@
+AIzaSyDKiHaUTMz8PPZCozpFAsA_wBzhrQtY2E0
+
+PLACE SEARCH
+https://developers.google.com/places/web-service/search
+restrict serch by type: https://developers.google.com/places/web-service/supported_types
+
+
+https://maps.googleapis.com/maps/api/place/textsearch/output?parameters
+
+https://maps.googleapis.com/maps/api/place/textsearch/json?query=restaurants+in+Sydney&key=AIzaSyDKiHaUTMz8PPZCozpFAsA_wBzhrQtY2E0
+
+--------------
+https://maps.googleapis.com/maps/api/place/textsearch/json?query=doctor+barcelona&type=doctor&language=es&key=AIzaSyDKiHaUTMz8PPZCozpFAsA_wBzhrQtY2E0
+--------------
+NEXT PAGE TOKEN
+https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken=CpQCBQEAAGeme5EZqBpGGCn14XRZsQG8ZYsVptHMPvt7kaAncbLiE4Ai7_b510La92qUdh8DTaLpaOoTe4T99RtDFugnxy1yFICZBPhw0JCVsYyXnriuJDqxBrKjeCZqptv6cCtTAHMs2BK_kn-faqKwITMoM1GnMXYjE16NymYJKTOEJ6Nwd2q9x7QHnZH6yVuPbBYwi9U4XUTlzIgxk0GOx1jK6v7tEcxJ8y_WpTGZiX_7Coj6L-lIy79RtI6AauLQ1LDMCNWMgHAw1CljbcbDAors1XOjRv3IP3TsmvE-oV2Mj_VzegDwNewEGOgNviNL35ENJiXoDXAcp9WjfX2hwA0z5BANdEdw2mClsYXrkYbZ2wtcEhAVidqlsx230T4C45nbvebvGhSGNFXwLeHgVlclRdo0-nqVxuykdQ&key=AIzaSyDKiHaUTMz8PPZCozpFAsA_wBzhrQtY2E0
+
+
+
+
+
+FIND DETAILS:
+https://developers.google.com/places/web-service/details
+
+--------------------------
+https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJV9E0yrexe0gRN5MG8vCFEn0&fields=name,rating,user_ratings_total,international_phone_number,website&key=AIzaSyDKiHaUTMz8PPZCozpFAsA_wBzhrQtY2E0
+---------------------------------------------
+
+https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJU1UVgNqipBIRFKkGpSN6LYE&fields=name,rating,user_ratings_total,international_phone_number,website&key=AIzaSyDKiHaUTMz8PPZCozpFAsA_wBzhrQtY2E0
+
