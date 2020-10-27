@@ -1,4 +1,4 @@
-#!/home/minimo/projects/email_magnet/email_magnet_venv/bin/python3
+#!/home/minimo/projects/email_magnet/email_magnet_venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

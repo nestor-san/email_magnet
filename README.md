@@ -8,7 +8,7 @@ When the list is crated, Email Magnet checks if the emails are valid and if they
 
 ## How to start 🚀
 
-
+_Just keep reading. You're in the right place_
 
 
 
@@ -80,7 +80,7 @@ _This project was created by_
 * **Nestor Sanchez** - *End to end* - [nestor-san](https://github.com/nestor-san)
 
 
-## Licennce 📄
+## License 📄
 
 This project is licensed under GNU GENERAL PUBLIC LICENSE v3. Please, check [LICENSE.md](LICENSE) for more details.
 
