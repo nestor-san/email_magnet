@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+email_magnet_venv/
 
 # C extensions
 *.so
