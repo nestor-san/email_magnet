@@ -14,9 +14,9 @@ _Just keep reading. You're in the right place_
 
 ### Pre-requisites 📋
 
-_You can install all the requirements with the following command: 
-note: yor should be on the same dir as requirements.txt file 
-"pip install -r requirements.txt"_
+_You can install all the requirements with the following command:_
+_Note: you should be on the same dir as requirements.txt file_ 
+_"pip install -r requirements.txt"_
 
 _You need the following dependencies to be installed for the project to run correctly._
 
